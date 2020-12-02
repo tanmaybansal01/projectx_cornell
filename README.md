@@ -29,4 +29,5 @@ Some datasets were too large to commit to this repository. If you need to run th
 <ul>
   <li> <a href = "https://data.world/ride-austin/ride-austin-june-6-april-13">RideAustin Part A</a>
   <li> <a href = "https://data.world/ride-austin/ride-austin-june-6-april-13-part-2">RideAustin Part B</a>
+  <li> <a href = "https://drive.google.com/drive/folders/1hJJtoHMKrywZSAD8C48pZ413P7OUOc0D?usp=sharing">Ride Data with Weather (with_weather.csv)</a>
 </ul>
