@@ -1,4 +1,6 @@
-# Ride-hailing emissions modeling and reduction through ride demand prediction
+# <a href = "https://www.scitepress.org/PublicationsDetail.aspx?ID=B1zBDFJzAis=&t=1">
+     Ride-hailing emissions modeling and reduction through ride demand prediction
+  </a>
 
 ### Tanmay Bansal, Ruchika Dongre, Kassie Wang, Sam Fuchs
 #### Cornell University
